@@ -4,7 +4,7 @@
 
 ### Está em fase de construção, com poucas funcionalidades, mas resolvi deixar aqui para quem quiser interagir conforme a construção do micro game.
 
-![image](https://user-images.githubusercontent.com/107089633/236660188-b59ca3b6-6087-45ae-921d-5ca687347ef5.png)
+![image](https://user-images.githubusercontent.com/107089633/236660292-27ec0c4d-803b-4490-9be0-c425207e54d1.png)
 
 * Peço a compreensão de todos, no momento, para reiniciar o game, deve-se clicar f5
 
